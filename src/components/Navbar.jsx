@@ -76,7 +76,7 @@ function Navbar({ navItemsPromise }) {
         ))}
       </div>
 
-      <div className="flex flex-col items-center justify-center h-[10vh] w-full bg-gray-900 text-white">
+      <div className="flex flex-col items-center justify-center h-[10vh] w-full bg-gray-900 text-white ">
         <div className="flex gap-2 items-center">
           <h1 className=" text-lg font-extrabold bg-gradient-to-r from-cyan-400 via-purple-500 to-pink-500 bg-clip-text text-transparent">
             Dhaka
