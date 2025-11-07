@@ -4,6 +4,9 @@ import Navbar from './components/Navbar'
 import Skiills from './components/Skiills'
 import ProjectCard from './components/Projects'
 import Projects from './components/Projects'
+import CodeSection from './components/Code'
+import ClientReviews from './components/ClientReview'
+import Contact from './components/Contacts'
 
 function App() {
   return (
@@ -12,6 +15,9 @@ function App() {
       <Home/>
       <Skiills/>
       <Projects/>
+      <CodeSection/>
+      <ClientReviews/>
+      <Contact/>
     </div>
   )
 }

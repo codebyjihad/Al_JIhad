@@ -8,57 +8,57 @@
     "demo": "https://nexora-com.netlify.app/",
     "github": "https://github.com/codebyjihad/Nexora"
   },
-   {
-  "id": 2,
-  "title": "Customer Support",
-  "description": "A modern and responsive customer support web app built using React, Tailwind CSS, and DaisyUI. It provides a simple and elegant interface for users to submit support requests, while admins can easily manage and respond to them. The UI is designed for clarity, speed, and full responsiveness across all devices. ",
-  "image": "https://i.ibb.co/T5kgPTZ/Screenshot-2025-11-07-131513.png",
-  "tech": ["React", "TailwindCSS", "DaisyUI"],
-  "demo": "https://custommer-support.netlify.app/",
-  "github": "https://github.com/codebyjihad/Customer-support"
-},
- {
-  "id": 3,
-  "title": "Install App",
-  "description": "This is a React-based App Store project where users can explore a wide collection of apps with detailed information, view ratings and reviews, and install their favorite apps with a single click. Installed apps are stored in localStorage, ensuring that the ....",
-  "image": "https://i.ibb.co.com/5hr9jBt9/Screenshot-2025-11-07-134118.png",
-  "tech": [
-    "React.js",
-    "React Router",
-    "React Toastify",
-    "Recharts",
-    "Tailwind CSS",
-    "DaisyUI",
-    "LocalStorage"
-  ],
-  "demo": "https://install-app-com.netlify.app/",
-  "github": "https://github.com/codebyjihad/ph-Assignment-8"
-},
   {
-  "id": 4,
-  "title": "HomeDecor",
-  "description": "HomeDecor is a modern and responsive React-based e-commerce web application focused  responsive layouts, and elegant design using Tailwind CSS. local store set items wishlist..",
-  "image": "https://i.ibb.co.com/C5KFPpS2/Screenshot-2025-11-07-135323.png",
-  "tech": ["React", "TailwindCSS", "DaisyUI"],
-  "demo": "https://homedecor-coms.netlify.app/",
-  "github": "https://github.com/codebyjihad/HomeDecor"
-},
+    "id": 2,
+    "title": "Customer Support",
+    "description": "A modern and responsive customer support web app built using React, Tailwind CSS, and DaisyUI. It provides a simple and elegant interface for users to submit support requests, while admins can easily manage and respond to them. The UI is designed for clarity, speed, and full responsiveness across all devices. ",
+    "image": "https://i.ibb.co/T5kgPTZ/Screenshot-2025-11-07-131513.png",
+    "tech": ["React", "TailwindCSS", "DaisyUI"],
+    "demo": "https://custommer-support.netlify.app/",
+    "github": "https://github.com/codebyjihad/Customer-support"
+  },
   {
     "id": 3,
-    "title": "Chat Application",
-    "description": "Real-time chat app built using Socket.io and Node.js with JWT authentication and MongoDB for message storage.",
-    "image": "/projects/chatapp.png",
-    "tech": ["React", "Node.js", "Socket.io", "MongoDB"],
-    "demo": "https://chatapp.vercel.app",
-    "github": "https://github.com/codebyjihad/chatapp"
+    "title": "Install App",
+    "description": "This is a React-based App Store project where users can explore a wide collection of apps with detailed information, view ratings and reviews, and install their favorite apps with a single click. Installed apps are stored in localStorage, ensuring that the ....",
+    "image": "https://i.ibb.co.com/5hr9jBt9/Screenshot-2025-11-07-134118.png",
+    "tech": [
+      "React.js",
+      "React Router",
+      "React Toastify",
+      "Recharts",
+      "Tailwind CSS",
+      "DaisyUI",
+      "LocalStorage"
+    ],
+    "demo": "https://install-app-com.netlify.app/",
+    "github": "https://github.com/codebyjihad/ph-Assignment-8"
   },
   {
     "id": 4,
+    "title": "HomeDecor",
+    "description": "HomeDecor is a modern and responsive React-based e-commerce web application focused  responsive layouts, and elegant design using Tailwind CSS. local store set items wishlist..",
+    "image": "https://i.ibb.co.com/C5KFPpS2/Screenshot-2025-11-07-135323.png",
+    "tech": ["React", "TailwindCSS", "DaisyUI"],
+    "demo": "https://homedecor-coms.netlify.app/",
+    "github": "https://github.com/codebyjihad/HomeDecor"
+  },
+  {
+    "id": 5,
+    "title": "Toy House",
+    "description": "A responsive Toy House website built with React.js, TailwindCSS DaisyUI, React Router, Context API, and Firebase. This project allows users to browse toys, view toy details, and manage accounts with Firebase authentication.",
+    "image": "https://i.ibb.co.com/23QptPdk/Screenshot-2025-11-07-140701.png",
+    "tech": ["React", "TailwindCSS", "DaisyUI", "Firebase"],
+    "demo": "https://toy-house.netlify.app/",
+    "github": "https://github.com/codebyjihad/Toy_House"
+  },
+  {
+    "id": 6,
     "title": "Weather Dashboard",
-    "description": "Weather forecast app using OpenWeatherMap API with real-time updates and geolocation support.",
-    "image": "/projects/weather.png",
+    "description": "Weather forecast app using OpenWeatherMap API with real-time updates and geolocation support. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Placeat, sit?",
+    "image": "https://i.ibb.co.com/ynJ69JvD/images.jpg",
     "tech": ["React", "TailwindCSS", "API Integration"],
-    "demo": "https://weatherbyjihad.vercel.app",
-    "github": "https://github.com/codebyjihad/weather-dashboard"
+    "demo": "gf",
+    "github": "gf"
   }
 ]
